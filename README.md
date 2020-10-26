@@ -1,8 +1,8 @@
 <h1>Install Virtual environment</h1>
 pip3 install virtualenv
 
-Create virtual environment 
-<h1>virtualenv environmentname</h1>
+<h1>Create virtual environment</h1>
+virtualenv environmentname
 
 <h1>Install other dependencies inside created virtual environment</h1>
 pip3 install flask
